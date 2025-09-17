@@ -15,11 +15,12 @@ const tags = [project, documentType ];
 const tagLine = tags.map(t => `#${t.replace(/\s+/g, '')}`).join(' ');
 
 let content = `---
-Progetto: ${project}
-Tipo: ${documentType}
-Tempo Impiegato: ${time}
-Ultima Modifica: ${oggi}
-Tags: [${tags.map(t => `"${t}"`).join(", ")}]
+project: ${project}
+type: ${documentType}
+time: ${time}
+date: ${oggi}
+version: ${version}
+tags: [${tags.map(t => `"${t}"`).join(", ")}]
 ---
 **Tags**
 

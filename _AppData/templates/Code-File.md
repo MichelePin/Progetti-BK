@@ -13,11 +13,13 @@ const tags = [project, language, "Code", repo];
 const tagLine = tags.map(t => `#${t.replace(/\s+/g, '')}`).join(' ');
 
 let content = `---
-Progetto: ${project}
-Linguaggio: ${language}
-Tipo: ${documentType}
-Ultima Modifica: ${today}
-Tags: [${tags.map(t => `"${t}"`).join(", ")}]
+project: ${project}
+programming_languages: ${language}
+type: ${documentType}
+date: ${today}
+version: ${version}
+repo: ${repo}
+tags: [${tags.map(t => `"${t}"`).join(", ")}]
 ---
 **Tags**
 

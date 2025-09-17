@@ -210,11 +210,15 @@
       "obsidian-kanban:Create new board": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Connections: Open random connection": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "626a57cda984b63f",
+  "active": "d5416a14bb676554",
   "lastOpenFiles": [
+    "_AppData/templates/Create todo linked to project.md",
+    "_AppData/templates/README.md",
+    "_AppData/templates/Create new note from template - prompt.md",
     "Integrazione Con Gestionale.md",
     "Random Todos.md",
     "Inbox/Untitled.md",
@@ -239,9 +243,6 @@
     "WSpace/Rapportini/August/Creazione IncomingOrder.md",
     "WSpace/Changelogs/Modifiche  a WAR_InventoryOrderController.md",
     "WSpace/Rapportini/August/Untitled.md",
-    "WSpace/Rapportini/August/Rapportino-0808.md",
-    "WSpace/Untitled 2.md",
-    "Griglia Edoor.md",
     "New folder",
     "WSpace/Rapportini/August",
     "WSpace/Rapportini/July",
