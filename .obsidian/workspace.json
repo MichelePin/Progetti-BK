@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Todos.md",
+                "file": "inventory controller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random Todos"
+              "title": "inventory controller"
             }
           }
         ],
@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Todos.md",
+                "file": "inventory controller.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Random Todos"
+              "title": "Outline of inventory controller"
             }
           },
           {
@@ -214,13 +214,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5416a14bb676554",
+  "active": "626a57cda984b63f",
   "lastOpenFiles": [
+    "MOVECONTROLLER.md",
+    "inventory controller.md",
+    "Random Todos.md",
     "_AppData/templates/Create todo linked to project.md",
     "_AppData/templates/README.md",
     "_AppData/templates/Create new note from template - prompt.md",
     "Integrazione Con Gestionale.md",
-    "Random Todos.md",
     "Inbox/Untitled.md",
     "Shortcuts Visual Studion.md",
     "Nuova schermata Inventario.md",
@@ -241,8 +243,6 @@
     "Ordine Di carico.md",
     "WSpace/Rapportini/August/Estensione RequestBuilder.md",
     "WSpace/Rapportini/August/Creazione IncomingOrder.md",
-    "WSpace/Changelogs/Modifiche  a WAR_InventoryOrderController.md",
-    "WSpace/Rapportini/August/Untitled.md",
     "New folder",
     "WSpace/Rapportini/August",
     "WSpace/Rapportini/July",
