@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inventory controller.md",
+                "file": "warbinentry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "inventory controller"
+              "title": "warbinentry"
             }
           }
         ],
@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inventory controller.md",
+                "file": "warbinentry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of inventory controller"
+              "title": "Outline of warbinentry"
             }
           },
           {
@@ -214,10 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "626a57cda984b63f",
+  "active": "d5416a14bb676554",
   "lastOpenFiles": [
-    "MOVECONTROLLER.md",
+    "binentry.md",
+    "warbinentry.md",
     "inventory controller.md",
+    "MOVECONTROLLER.md",
     "Random Todos.md",
     "_AppData/templates/Create todo linked to project.md",
     "_AppData/templates/README.md",
@@ -241,8 +243,6 @@
     "WSpace/Rapportini/August/Rapportino-0814.md",
     "WSpace/Untitled 3.md",
     "Ordine Di carico.md",
-    "WSpace/Rapportini/August/Estensione RequestBuilder.md",
-    "WSpace/Rapportini/August/Creazione IncomingOrder.md",
     "New folder",
     "WSpace/Rapportini/August",
     "WSpace/Rapportini/July",
