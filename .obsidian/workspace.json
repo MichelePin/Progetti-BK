@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "582c61202f94b618",
+    "type": "split",
+    "children": [
+      {
+        "id": "96908119c738d139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7e699e238c27bc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shortcuts Visual Studion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shortcuts Visual Studion"
+            }
+          },
+          {
+            "id": "2985fee8f0ad3ddf",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
+            }
+          },
+          {
+            "id": "d5416a14bb676554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random Todos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Random Todos"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3703227fe2dd121f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc1cd396b4ed7773",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "626a57cda984b63f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9c42f44a54c23aee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#18B631",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6873f79b570e8fe1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "right": {
+    "id": "e6d87b920d8f0692",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f6fb2d18ccd337d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1f3353a38edc3e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5098e47c160f5e92",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d59b0a2fd4a2cb25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Random Todos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Random Todos"
+            }
+          },
+          {
+            "id": "38cac0f3a273f05b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox/Untitled 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 1"
+            }
+          },
+          {
+            "id": "51b3efa865827ec9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_AppData/plugins/templater/templates/AAAA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AAAA"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "audio-recorder:Start/stop recording": true,
+      "publish:Publish changes...": true,
+      "templater-obsidian:Templater": false,
+      "smart-connections:Open: Smart Chat": false,
+      "obsidian-kanban:Create new board": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "626a57cda984b63f",
+  "lastOpenFiles": [
+    "Integrazione Con Gestionale.md",
+    "Random Todos.md",
+    "Inbox/Untitled.md",
+    "Shortcuts Visual Studion.md",
+    "Nuova schermata Inventario.md",
+    "ILE e BinEntries.md",
+    "Chiusura ticket.md",
+    "Globale/Istruzioni/Setup Generale.md",
+    "Tempificazione WSpace.md",
+    "Globale/Istruzioni/Aggiornare Tabelle WEC.md",
+    "Globale/Istruzioni/Aggiornare Libreria Submodule.md",
+    "Globale/Istruzioni/Eliminare le Cartelle .vs.md",
+    "Untitled",
+    "Globale/Istruzioni/Debug-Istruzioni-Installazione-20250719.md",
+    "Azioni.md",
+    "Endpoints WSpace.md",
+    "Colori WSpace.md",
+    "WSpace/Rapportini/August/Rapportino-0814.md",
+    "WSpace/Untitled 3.md",
+    "Ordine Di carico.md",
+    "WSpace/Rapportini/August/Estensione RequestBuilder.md",
+    "WSpace/Rapportini/August/Creazione IncomingOrder.md",
+    "WSpace/Changelogs/Modifiche  a WAR_InventoryOrderController.md",
+    "WSpace/Rapportini/August/Untitled.md",
+    "WSpace/Rapportini/August/Rapportino-0808.md",
+    "WSpace/Untitled 2.md",
+    "Griglia Edoor.md",
+    "New folder",
+    "WSpace/Rapportini/August",
+    "WSpace/Rapportini/July",
+    "WSpace/Rapportini",
+    "WSpacw",
+    "Snippets & Utils/Excel",
+    "Snippets & Utils/Github",
+    "Snippets & Utils",
+    "WSpace/Istruzioni/Utente/Funzionalità/_db/Ordini"
+  ]
+}

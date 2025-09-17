@@ -1,0 +1,4 @@
+- Sposto la merce da un'altra parte 
+- Ordine di Ricezione merce 
+- Estendere carrello (`Type`)
+- 

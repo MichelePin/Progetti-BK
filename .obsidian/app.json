@@ -1,0 +1,18 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "Templates/",
+    "textgenerator/",
+    "Inbox/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "alwaysUpdateLinks": true
+}

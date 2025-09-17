@@ -1,0 +1,25 @@
+- Nel menu ricevi merce 
+- finesta con nome fornitore e numero ordine in rifermiento a [[WAR_PlanningHeader]]
+- Ricerca anche parziale 
+- Filtriamo le righe e verifichiamo 
+- prevedere prelievo / conferma individuale o per quantita specifica 
+- prepariamo ordine di precarico 
+- `WAR_OrderEntry`
+-  Spezzettare ordine 
+- Confermare nuova tabella 
+- Sempre collocazione di destinazione 
+- Registriamo come giacenza 
+- Passeremo dati a gestionale, carico bolla fiscale 
+- Ritorna ok per processare 
+- Implementazione BarCode 
+- Iniziando un processo a Barcode non possiamo cambiare fornitore 
+- Errori rossi 
+	- fornitore diverso 
+	- oggetto diverso -> seleziono a mano 
+- Dopo aver scansionato apriamo `adjustmentForm`
+- schermata di riepilogo e conferma 
+- scarico 
+- possibili modifiche dall'esterno 
+- ordine completo 
+- aggiorniamo giacenze
+- verificare per interno o esterno 
